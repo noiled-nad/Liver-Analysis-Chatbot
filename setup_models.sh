@@ -17,7 +17,7 @@ fi
 
 # 使用Ollama下载qwq32b模型
 echo "开始使用Ollama下载 qwq32b..."
-ollama pull qwq32b
+ollama pull qwq:32b
 
 echo "qwq32b下载完成。"
 
